@@ -1,0 +1,19 @@
+{
+  "name": "n-date-picker-vite-ssg-issue",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite-ssg build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "naive-ui": "^2.34.2",
+    "vue": "^3.2.45"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.2.0",
+    "vite": "^3.2.4",
+    "vite-ssg": "^0.22.0"
+  }
+}
